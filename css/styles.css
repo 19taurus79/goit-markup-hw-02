@@ -1,0 +1,33 @@
+body{
+    font-family: "Roboto", "Raleway", sans-serif ;
+    color: #434455;
+}
+a:hover, a:focus{
+    color: #4D5AE5;
+}
+button:hover, button:focus{
+    color: #4D5AE5;
+}
+.portfolio{
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        
+}
+.portfolio-title{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+    
+}
+.portfolio-type{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+button{
+    cursor: pointer;
+}
